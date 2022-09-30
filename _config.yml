@@ -21,9 +21,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Trevor's Docs                          # the main title
+title: Trevor Russell                          # the main title
 
-tagline: Docs and Ramblings   # it will display as the sub-title
+tagline: Salesforce Architect   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Trevor's Site
